@@ -9,7 +9,7 @@ I'm a passionate QA engineer who loves learning something new.\
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/mslu.png"></td><td valign="middle">Moscow State Linguistic University</br>Faculty of German Language</br>Theory and methodology of teaching foreign languages and cultures</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/mirea.jpg"></td><td valign="middle">MIREA - Russian Technological University</br>Institute for complex security and special instrumentation</br>Software Engineering</td>
+    <tr><td width="30%" valign="bottom"><img src="/images/mirea.png"></td><td valign="middle">MIREA - Russian Technological University</br>Institute for complex security and special instrumentation</br>Software Engineering</td>
    </tr>
   </table>
   </br>
