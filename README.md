@@ -1,4 +1,4 @@
-# Hey there! I'm Yulia
+# Hey there! I'm Julia
 <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Message-red?style=for-the-badge" alt="Message"></a>
 <a href="https://t.me/juliett_delta"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/judmi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
