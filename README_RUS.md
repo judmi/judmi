@@ -32,7 +32,7 @@
   </table>
   </br>
 
-## Tech Stack
+## Технологии
 <div> 
 <img src="/icons/postman.svg" width="40" height="40">
 <img src="icons/git-original.svg" width="40" height="40">
@@ -45,7 +45,7 @@
 <img src="icons/selenium.svg" width="40" height="40">
 </div>
 
-## Hobbies
+## Хобби
 * астрономия :stars:
 * электрогитара :guitar:
 * дрессировка собак :service_dog:
