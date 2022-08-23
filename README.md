@@ -5,7 +5,7 @@
 
 <h2> About me </h2>
 
-I'm a passionate QA engineer who loves learning something new.\
+I'm a passionate QA engineer who loves learning new things.\
 :computer: 5+ years of experience in manual software testing\
 :page_facing_up: ISTQB Certified Tester Foundation Level\
 :woman_student: Currently learning automation testing with Selenium and Java
