@@ -48,7 +48,7 @@ I'm a passionate QA engineer who loves learning new things.\
 ## Hobbies
 * astronomy :stars:
 * electric guitar :guitar:
-* dog training :service_dog:
+* dog psychology and training :service_dog:
 * trying and learning smth new :books:
 
 
