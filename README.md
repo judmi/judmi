@@ -20,12 +20,17 @@ I'm a passionate QA engineer who loves learning something new.\
   </br>
 
 ## Tech Stack
-* Postman
-* Java
-* Selenium
-* SQL
-* HTML
-* CSS
+<div> 
+<img src="/icons/postman.svg" width="40" height="40">
+<img src="icons/git-original.svg" width="40" height="40">
+<img src="icons/java-original.svg" width="40" height="40">
+<img src="icons/intellij-idea.svg" width="40" height="40">
+<img src="icons/microsoftsqlserver-plain-wordmark.svg" width="40" height="40">
+<img src="icons/postgresql.svg" width="40" height="40">
+<img src="icons/html5-original.svg" width="40" height="40">
+<img src="icons/css3-original.svg" width="40" height="40">
+<img src="icons/selenium.svg" width="40" height="40">
+</div>
 
 ## Hobbies
 * astronomy :stars:
