@@ -1,8 +1,22 @@
-# Hey there! I'm Julia
+<div align="center">
+  <h1>
+    Hey there! I'm Julia!
+    <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
+  </h1>
+<p>
 <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Message-red?style=for-the-badge" alt="Message"></a>
 <a href="https://t.me/juliett_delta"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/judmi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+</p>
+<p><i>"Failure is not an option."</i></p>
+  <p>
+    <a href="/README_RUS.md">
+    <img alt="Russian version" src="/icons/ru.svg"/ title="Russian version" width="30px">
+  </a>
+  </p>
+<div>
 
+<div align="left">
 <h2> About me </h2>
 
 I'm a passionate QA engineer who loves learning new things.\
