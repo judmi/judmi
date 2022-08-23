@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
     Hey there! I'm Julia!
-    <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 <p>
 <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Message-red?style=for-the-badge" alt="Message"></a>
