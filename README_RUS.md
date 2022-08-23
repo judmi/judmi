@@ -9,7 +9,7 @@
 </p>
 <p><i>"Неудача не вариант."</i></p>
   <p>
-    <a href="/README_RUS.md">
+    <a href="/README.md">
     <img alt="English version" src="/icons/us.svg"/ title="English version" width="30px">
   </a>
   </p>
@@ -26,8 +26,8 @@
 <!-- :email: Shoot me an email at yulia.dmitrieva@yahoo.com -->
 <table width="100%" border='0'>
    <tr> 
-    <td width="20%" valign="bottom" align="center"><a href="https://linguanet.ru/"><img src="/images/mslu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Теория и методика преподавания иностранных языков и культур</td></tr>
-    <tr><td width="20%" valign="bottom" align="center"><a href="https://mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>МИРЭА- Российский технологический университет</b></br>Институт комплексной безопасности и специального приборостроения</br>Программная инженерия</td>
+    <td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/"><img src="/images/mslu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Теория и методика преподавания иностранных языков и культур</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>МИРЭА- Российский технологический университет</b></br>Институт комплексной безопасности и специального приборостроения</br>Программная инженерия</td>
    </tr>
   </table>
   </br>
@@ -49,4 +49,4 @@
 * астрономия :stars:
 * электрогитара :guitar:
 * дрессировка собак :service_dog:
-* пробовать и изучать что-то новое :books:
+* изучение чего-то нового :books:
