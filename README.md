@@ -13,8 +13,8 @@ I'm a passionate QA engineer who loves learning something new.\
 <!-- :email: Shoot me an email at yulia.dmitrieva@yahoo.com -->
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><a href="https://linguanet.ru/en/"><img src="/images/mslu.png" alt="MSLU"></a></td><td valign="middle"><b>Moscow State Linguistic University</b></br>Faculty of German Language</br>Theory and Methodology of Teaching Foreign Languages and Cultures</td></tr>
-    <tr><td width="30%" valign="bottom"><a href="https://english.mirea.ru/" alt="MIREA"><img src="/images/mirea.png"></td><td valign="middle"><b>MIREA - Russian Technological University</b></br>Institute for Complex Security and Special Instrumentation</br>Software Engineering</td>
+    <td width="20%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mslu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Moscow State Linguistic University</b></br>Faculty of German Language</br>Theory and Methodology of Teaching Foreign Languages and Cultures</td></tr>
+    <tr><td width="20%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>MIREA - Russian Technological University</b></br>Institute for Complex Security and Special Instrumentation</br>Software Engineering</td>
    </tr>
   </table>
   </br>
