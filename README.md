@@ -10,7 +10,7 @@
 <p><i>"Failure is not an option."</i></p>
   <p>
     <a href="/README_RUS.md">
-    <img alt="Russian version" src="/icons/ru.svg"/ title="Russian version" width="30px">
+    <img alt="Change language" src="/icons/us.svg"/ title="Russian version" width="30px">
   </a>
   </p>
 <div>
