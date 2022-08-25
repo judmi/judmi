@@ -10,7 +10,7 @@
 <p><i>"Неудача не вариант."</i></p>
   <p>
     <a href="/README.md">
-    <img alt="English version" src="/icons/us.svg"/ title="English version" width="30px">
+    <img alt="English version" src="/icons/ru.svg"/ title="English version" width="30px">
   </a>
   </p>
 <div>
