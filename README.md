@@ -38,7 +38,7 @@ I'm a passionate QA engineer who loves learning new things.\
 <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40" height="40">
 <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40" height="40">
 <a href="https://www.jetbrains.com/idea/"><img src="icons/intellij-idea.svg" width="40" height="40">
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="icons/microsoftsqlserver-plain-wordmark.svg" width="40" height="40">
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="icons/microsoftsqlserver-plain.svg" width="40" height="40">
 <a href="https://www.postgresql.org/"><img src="icons/postgresql-logo.svg" width="40" height="40">
 <a href="https://www.mysql.com/"><img src="icons/mysql-plain.svg" width="40" height="40">
 <a href="https://html.spec.whatwg.org/"><img src="icons/html5-original.svg" width="40" height="40">
