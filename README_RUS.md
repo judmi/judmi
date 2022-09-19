@@ -20,7 +20,7 @@
 
 Я увлеченный тестировщик, который любит изучать что-то новое.\
 :computer: более 5 лет опыта ручного тестирования \
-:page_facing_up: ISTQB Сертифицированный Тестировщик, Базовый уровень\
+:page_facing_up: <a href="https://www.gasq.org/en/registration/expert/2d04b0ed-14da-4af1-9282-d778c9054654.html">ISTQB Сертифицированный</a> Тестировщик, Базовый уровень\ 
 :woman_student: Сейчас изучаю автоматизированное тестирование на Java и Selenium
 
 <!-- :email: Shoot me an email at yulia.dmitrieva@yahoo.com -->
