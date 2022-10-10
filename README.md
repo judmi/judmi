@@ -21,7 +21,7 @@
 I'm a passionate QA engineer who loves learning new things.\
 :computer: 5+ years of experience in manual software testing\
 :page_facing_up: <a href="https://www.gasq.org/en/registration/expert/2d04b0ed-14da-4af1-9282-d778c9054654.html">ISTQB Certified</a> Tester Foundation Level\
-:woman_student: Currently learning automation testing with Selenium and Java
+:woman_student: Currently learning automated testing with Selenium and Java
 
 <!-- :email: Shoot me an email at yulia.dmitrieva@yahoo.com -->
 <table width="100%" border='0'>
