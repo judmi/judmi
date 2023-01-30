@@ -8,7 +8,7 @@
   <p>
     <a href="https://t.me/juliett_delta"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Send%20Email-red?style=for-the-badge" alt="Send email"></a>
-    <a href="https://linkedin.com/judmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/judmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
   <p><i>"Failure is not an option."</i></p>
 </div>
