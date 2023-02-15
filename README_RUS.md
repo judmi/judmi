@@ -36,7 +36,7 @@
 
 <!-- Tech Stack Section -->
 <div>
-  <h2>Tech Stack</h2>
+  <h2>Стек технологий</h2>
   <a href="https://www.postman.com/"><img src="/icons/postman.svg" width="40"></a>
   <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40"></a>
   <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40"></a>
@@ -51,7 +51,7 @@
 
 <!-- Hobbies Section -->
 <div>
-  <h2>Hobbies</h2>
+  <h2>Интересы</h2>
   <ul>
     <li>астрономия 🌠</li>
     <li>электрогитара 🎸</li>
