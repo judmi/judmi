@@ -28,7 +28,7 @@
 <div>
   <table width="100%" border='0'>
    <tr> 
-    <td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mslu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Теория и методика преподавания иностранных языков и культур</td></tr>
+    <td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mglu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Теория и методика преподавания иностранных языков и культур</td></tr>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>МИРЭА- Российский технологический университет</b></br>Институт комплексной безопасности и специального приборостроения</br>Программная инженерия</td>
    </tr>
   </table>
