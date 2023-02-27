@@ -6,7 +6,7 @@
 <!-- Social icons section-->
 <div align="center">
   <p>
-    <a href="https://t.me/juliett_delta"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/imduj"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Send email"></a>
     <a href="https://linkedin.com/in/judmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
