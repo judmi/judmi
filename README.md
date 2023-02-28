@@ -49,6 +49,14 @@
   <a href="https://selenide.org/"><img src="icons/Selenide.png" width="40" height="40"></a>
 </div>
 
+<div>
+  <h2>Projects</h2>
+  <ul>
+    <li><a href="https://github.com/judmi/codewars">Solutions for Codewars</li>
+    <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Tiny demo project with auto tests</li>
+  </ul>
+</div>
+
 <!-- Hobbies Section -->
 <div>
   <h2>Hobbies</h2>
