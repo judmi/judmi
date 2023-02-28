@@ -59,3 +59,9 @@
     <li>изучение чего-то нового 📚</li>
   </ul>
 </div>
+
+<h2></h2>
+
+[![codewars](https://www.codewars.com/users/judmi/badges/small)](https://www.codewars.com/users/judmi)
+
+![judmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=judmi&show_icons=true&theme=tokyonight)
