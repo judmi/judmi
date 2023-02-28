@@ -27,8 +27,8 @@
 <!-- Education section -->
 <div>
   <table width="100%" border='0'>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td></tr>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://qa.guru/"><img src="/images/qaguru.png" width="100" height="100" alt="QA Guru logo"></td><td valign="middle"><b>QA Guru</b></br>QA Automation with Java (online course)</br></td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td></tr>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>MIREA - Russian Technological University</b></br>Institute for Complex Security and Special Instrumentation</br>Software Engineering</td></tr>
    <tr><td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mglu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Moscow State Linguistic University</b></br>Faculty of German Language</br>Theory and Methodology of Teaching Foreign Languages and Cultures</td></tr>
   </table>
