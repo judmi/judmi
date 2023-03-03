@@ -29,8 +29,8 @@
   <table width="100%" border='0'>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://qa.guru/"><img src="/images/qaguru.png" width="100" height="100" alt="QA Guru logo"></td><td valign="middle"><b>QA Guru</b></br>Школа инженеров по автоматизации тестирования на Java (онлайн курс)</br></td><td>В процессе</td></tr>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Некоммерческая IT-школа RedRover</b></br>Автоматизация тестирования на Java (онлайн курс)</br></td><td>В процессе</td></tr>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>МИРЭА- Российский технологический университет</b></br>Институт комплексной безопасности и специального приборостроения</br>Программная инженерия</td><td>2016 - 2020</td></tr>
-   <tr><td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mglu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Теория и методика преподавания иностранных языков и культур</td><td>2012 - 2016</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>МИРЭА- Российский технологический университет</b></br>Институт комплексной безопасности и специального приборостроения</br>Программная инженерия (Бакалавр)</td><td>2016 - 2020</td></tr>
+   <tr><td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mglu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Московский государственный лингвистический университет</b></br>Факультет немецкого языка</br>Лингвистика (Бакалавр)</td><td>2012 - 2016</td></tr>
   </table>
 </div>
 
