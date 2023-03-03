@@ -52,7 +52,7 @@
 <div>
   <h2>Проекты</h2>
   <ul>
-    <li><a href="https://github.com/judmi/codewars">Решения задач на Codewars</li>
+    <li><a href="https://github.com/judmi/codewars">Решения задач с Codewars на Java</li>
     <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Маленький демо-проект с авто-тестами</li>
   </ul>
 </div>
