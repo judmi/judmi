@@ -52,7 +52,7 @@
 <div>
   <h2>Projects</h2>
   <ul>
-    <li><a href="https://github.com/judmi/codewars">Solutions for Codewars</li>
+    <li><a href="https://github.com/judmi/codewars">Java solutions for Codewars</li>
     <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Tiny demo project with auto tests</li>
   </ul>
 </div>
