@@ -54,7 +54,7 @@
   <ul>
     <li><a href="https://github.com/judmi/codewars">Java solutions for Codewars</li>
     <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Tiny demo project with auto tests</li>
-    <li>Contributing to the <a href="https://github.com/RedRoverSchool/JenkinsQA_06/pulls?q=author%3Ajudmi++">RedRover School project</a></li>
+    <li>Contributing to the <a href="https://github.com/RedRoverSchool">RedRover School</a> projects</li>
   </ul>
 </div>
 
