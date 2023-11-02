@@ -54,7 +54,7 @@
   <ul>
     <li><a href="https://github.com/judmi/codewars">Решения задач с Codewars на Java</li>
     <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Маленький демо-проект с авто-тестами</li>
-    <li>Участвую в <a href="https://github.com/RedRoverSchool/JenkinsQA_06/pulls?q=author%3Ajudmi++">проекте RedRover School</a></li>
+    <li>Участвую в учебных проектах <a href="https://github.com/RedRoverSchool">RedRover School</a></li>
   </ul>
 </div>
 
