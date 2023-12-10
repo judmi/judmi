@@ -27,8 +27,8 @@
 <!-- Education section -->
 <div>
   <table width="100%" border='0'>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://qa.guru/"><img src="/images/qaguru.png" width="100" height="100" alt="QA Guru logo"></td><td valign="middle"><b>QA Guru</b></br>QA Automation with Java (online course)</br></td><td>In Progress</td></tr>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td><td>In Progress</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td><td>2023</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://qa.guru/"><img src="/images/qaguru.png" width="100" height="100" alt="QA Guru logo"></td><td valign="middle"><b>QA Guru</b></br>QA Automation with Java (online course)</br></td><td>2022</td></tr>
     <tr><td width="25%" valign="bottom" align="center"><a href="https://english.mirea.ru/"><img src="/images/mirea.png" width="100" height="100" alt="MIREA logo"></td><td valign="middle"><b>MIREA - Russian Technological University</b></br>Institute for Complex Security and Special Instrumentation</br>Software Engineering (Bachelor's Degree)</td><td>2016 - 2020</td></tr>
    <tr><td width="25%" valign="bottom" align="center"><a href="https://linguanet.ru/en/"><img src="/images/mglu.png" width="100" height="100" alt="MSLU logo"></a></td><td valign="middle"><b>Moscow State Linguistic University</b></br>Faculty of German Language</br>Linguistics (Bachelor's Degree)</td><td>2012 - 2016</td></tr>
   </table>
@@ -52,9 +52,10 @@
 <div>
   <h2>Projects</h2>
   <ul>
-    <li><a href="https://github.com/judmi/codewars">Java solutions for Codewars</li>
     <li><a href="https://github.com/judmi/qa-guru-13-3-demoqa">Tiny demo project with auto tests</li>
+    <li><a href="https://github.com/judmi/luma">Auto tests for Luma demo site</li>
     <li>Contributing to the <a href="https://github.com/RedRoverSchool">RedRover School</a> projects</li>
+    <li><a href="https://github.com/judmi/codewars">Java solutions for Codewars</li>
   </ul>
 </div>
 
