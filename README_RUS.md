@@ -45,7 +45,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="icons/microsoftsqlserver-plain.svg" width="40"></a>
   <a href="https://www.postgresql.org/"><img src="icons/postgresql-logo.svg" width="40"></a>
   <a href="https://www.mysql.com/"><img src="icons/mysql-plain.svg" width="40"></a>
-  <a href="https://kafka.apache.org/"><img src="icons/kafka-icon.svg" width="40"></a>
+  <a href="https://kafka.apache.org/"><img src="icons/kafka-icon.svg" height="40"></a>
   <a href="https://html.spec.whatwg.org/"><img src="icons/html5-original.svg" width="40"></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="icons/css3-original.svg" width="40"></a>
   <a href="https://www.selenium.dev/"><img src="icons/selenium.svg" width="40" height="40"></a>
