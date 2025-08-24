@@ -20,7 +20,7 @@
       I'm a passionate QA engineer who loves learning new things<br>
       💻 8+ years of experience in manual software testing<br>
       📄 <a href="https://www.gasq.org/en/registration/expert/2d04b0ed-14da-4af1-9282-d778c9054654.html">ISTQB Certified:</a> CTFL, CTAL-TA<br>
-      💙 QA in the bestest team at [OzonTech](https://ozon.tech/)<br>
+      💙 QA in the bestest team at <a href="https://ozon.tech/">OzonTech</a><br>
       😎 Automating tests in C#, testing APIs and enjoying life<br>
     </p>
 </div>
