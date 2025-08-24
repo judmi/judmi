@@ -10,7 +10,7 @@
     <a href="mailto:yulia.dmitrieva@yahoo.com"><img src="https://img.shields.io/badge/Send%20Email-red?style=for-the-badge" alt="Send email"></a>
     <a href="https://linkedin.com/in/judmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
-  <p><i>"Failure is not an option."</i></p>
+  <p><i>"Testing everything is not just a job. It is a lifestyle."</i></p>
 </div>
 
 <!-- Section about me -->
@@ -18,9 +18,10 @@
   <h2>About me</h2>
     <p>
       I'm a passionate QA engineer who loves learning new things<br>
-      💻 6+ years of experience in manual software testing<br>
+      💻 8+ years of experience in manual software testing<br>
       📄 <a href="https://www.gasq.org/en/registration/expert/2d04b0ed-14da-4af1-9282-d778c9054654.html">ISTQB Certified:</a> CTFL, CTAL-TA<br>
-      👩🏽‍🎓 Currently learning automated testing with Selenium and Java<br>
+      💙 QA in the bestest team at [OzonTech](https://ozon.tech/)<br>
+      😎 Automating tests in C#, testing APIs and enjoying life<br>
     </p>
 </div>
 
@@ -40,9 +41,11 @@
   <a href="https://www.postman.com/"><img src="/icons/postman.svg" width="40"></a>
   <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40"></a>
   <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40"></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="icons/c-sharp.svg" width="40"></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="icons/microsoftsqlserver-plain.svg" width="40"></a>
   <a href="https://www.postgresql.org/"><img src="icons/postgresql-logo.svg" width="40"></a>
   <a href="https://www.mysql.com/"><img src="icons/mysql-plain.svg" width="40"></a>
+  <a href="https://kafka.apache.org/"><img src="icons/kafka-icon.svg" width="40"></a>
   <a href="https://html.spec.whatwg.org/"><img src="icons/html5-original.svg" width="40"></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="icons/css3-original.svg" width="40"></a>
   <a href="https://www.selenium.dev/"><img src="icons/selenium.svg" width="40" height="40"></a>
@@ -65,8 +68,9 @@
   <ul>
     <li>astronomy 🌠</li>
     <li>electric guitar 🎸</li>
+    <li>italian language 🇮🇹</li>
     <li>dog psychology and training 🐕‍🦺</li>
-    <li>trying and learning smth new 📚</li>
+    <li>trying and learning new things 📚</li>
   </ul>
 </div>
 
